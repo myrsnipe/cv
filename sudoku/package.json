@@ -1,0 +1,19 @@
+{
+  "name": "sudoku",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "browser-sync": "^2.6.5",
+    "glob": "^5.0.5",
+    "gulp": "^3.8.11",
+    "gulp-task-listing": "^1.0.0",
+    "karma": "^0.12.31",
+    "merge-stream": "^0.1.7",
+    "plato": "^1.4.0"
+  }
+}

@@ -8,12 +8,8 @@
   },
   "author": "",
   "devDependencies": {
-    "browser-sync": "^2.6.5",
-    "glob": "^5.0.5",
     "gulp": "^3.8.11",
-    "gulp-task-listing": "^1.0.0",
-    "karma": "^0.12.31",
-    "merge-stream": "^0.1.7",
-    "plato": "^1.4.0"
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-task-listing": "^1.0.0"
   }
 }
